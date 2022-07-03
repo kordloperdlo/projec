@@ -1,0 +1,398 @@
+----------------------------------------------------------------------
+
+Sun Jul 03 09:24:37 2022
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+                       nvd3dum  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.124.115
+	CPU : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (1 core); SSE; SSE2; SSE3; SSSE3; SSE4.1; SSE4.2
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GT 635M / nvd3dum.dll[21.21.13.7654]
+	Language : russian
+	Memory :     6009MB 788KB
+	OS : 6.2.9200 () 0x300-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Conexant (Динамики (Conexant SmartAudio HD))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jul 03 10:48:13 2022
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+                       nvd3dum  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+                          d3d9  (???)     Direct3DCreate9On12Ex                               
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.124.115
+	CPU : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (1 core); SSE; SSE2; SSE3; SSSE3; SSE4.1; SSE4.2
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GT 635M / nvd3dum.dll[21.21.13.7654]
+	Language : russian
+	Memory :     6009MB 788KB
+	OS : 6.2.9200 () 0x300-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Conexant (Динамики (Conexant SmartAudio HD))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jul 03 10:50:04 2022
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+                       nvd3dum  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+                          d3d9  (???)     Direct3DCreate9On12Ex                               
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.124.115
+	CPU : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (1 core); SSE; SSE2; SSE3; SSSE3; SSE4.1; SSE4.2
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GT 635M / nvd3dum.dll[21.21.13.7654]
+	Language : russian
+	Memory :     6009MB 788KB
+	OS : 6.2.9200 () 0x300-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Conexant (Динамики (Conexant SmartAudio HD))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jul 03 11:37:19 2022
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+                       nvd3dum  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.124.115
+	CPU : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (1 core); SSE; SSE2; SSE3; SSSE3; SSE4.1; SSE4.2
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GT 635M / nvd3dum.dll[21.21.13.7654]
+	Language : russian
+	Memory :     6009MB 788KB
+	OS : 6.2.9200 () 0x300-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Conexant (Динамики (Conexant SmartAudio HD))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jul 03 11:44:52 2022
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+                       nvd3dum  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+                          d3d9  (???)     Direct3DCreate9On12Ex                               
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.124.115
+	CPU : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (1 core); SSE; SSE2; SSE3; SSSE3; SSE4.1; SSE4.2
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GT 635M / nvd3dum.dll[21.21.13.7654]
+	Language : russian
+	Memory :     6009MB 788KB
+	OS : 6.2.9200 () 0x300-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Conexant (Динамики (Conexant SmartAudio HD))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jul 03 17:20:50 2022
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+                       nvd3dum  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+                          d3d9  (???)     Direct3DCreate9On12Ex                               
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.124.115
+	CPU : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (1 core); SSE; SSE2; SSE3; SSSE3; SSE4.1; SSE4.2
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GT 635M / nvd3dum.dll[21.21.13.7654]
+	Language : russian
+	Memory :     6009MB 788KB
+	OS : 6.2.9200 () 0x300-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Conexant (Динамики (Conexant SmartAudio HD))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jul 03 17:34:21 2022
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+                           ???  (???)     ???                                                 
+                           ???  (???)     ???                                                 
+                           ???  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.124.115
+	CPU : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (1 core); SSE; SSE2; SSE3; SSSE3; SSE4.1; SSE4.2
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GT 635M / nvd3dum.dll[21.21.13.7654]
+	Language : russian
+	Memory :     6009MB 788KB
+	OS : 6.2.9200 () 0x300-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Conexant (Динамики (Conexant SmartAudio HD))
+
+
+
+----------------------------------------------------------------------
+
+Sun Jul 03 17:50:04 2022
+
+
+Application has crashed: access violation
+
+-------------------------------
+
+Callstack:
+
+                       nvd3dum  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+                          d3d9  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+         payday2_win32_release  (???)     ???                                                 
+                          d3d9  (???)     Direct3DCreate9On12Ex                               
+         payday2_win32_release  (???)     ???                                                 
+
+
+-------------------------------
+
+Current thread: Renderer
+
+-------------------------------
+
+System information:
+	Application version : 1.124.115
+	CPU : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (1 core); SSE; SSE2; SSE3; SSSE3; SSE4.1; SSE4.2
+	DirectX : 12.0 
+	GPU : NVIDIA GeForce GT 635M / nvd3dum.dll[21.21.13.7654]
+	Language : russian
+	Memory :     6009MB 788KB
+	OS : 6.2.9200 () 0x300-0x1 (64 bits)
+	Physics : threaded
+	Renderer : DX9 threaded
+	Sound : Conexant (Динамики (Conexant SmartAudio HD))
